@@ -1,0 +1,3 @@
+[submodule "sclang_format"]
+	path = sclang_format
+	url = https://github.com/john-d-murphy/sclang_format
