@@ -16,6 +16,8 @@ use {
 
 ### Requirements
 
+NeoVim version 0.7 or higher.
+
 Some python packages are needed:
 
 - `tree_sitter`
