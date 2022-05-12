@@ -1,6 +1,6 @@
 # sclang-format.nvim
 
-A simple wrapper for [sclang_format.py](https://github.com/john-d-murphy/sclang_format), a tree-sitter based tool for formatting SuperCollider code.
+A simple wrapper for [sclang_format.py](https://github.com/john-d-murphy/sclang_format), a tree-sitter based tool for formatting SuperCollider code. Note that both sclang_format.py and this plugin are a work in progress.
 
 ## Installation
 
